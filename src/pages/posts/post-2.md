@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: My Second Blog Post
-author: "Khalil Dhoiybi"
-description: "After learning some Astro, I couldn't stop!"
+author: Khalil Dhoiybi
+description: After learning some Astro, I couldn't stop!
 image:
   url: "https://docs.astro.build/assets/arc.webp"
   alt: "Thumbnail of Astro arcs,"
